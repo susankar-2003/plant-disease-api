@@ -25,7 +25,7 @@ MODEL_FILE = "best_model.tflite"
 LABELS_FILE = "labels.txt"
 INFO_FILE = "disease_info.json"
 UPLOAD_DIR = "collected_images"
-CONFIDENCE_THRESHOLD = 90.0
+CONFIDENCE_THRESHOLD = 98.0
 
 # --- LOAD RESOURCES ---
 try:
@@ -135,4 +135,5 @@ async def predict(files: List[UploadFile] = File(...)): # Accepts a LIST of file
     return results_list # Return the list of all results
 
 if __name__ == "__main__":
+
     uvicorn.run(app, host="0.0.0.0", port=8000)
