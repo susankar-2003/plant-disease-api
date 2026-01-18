@@ -1,0 +1,92 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "name": "Bacterial Spot (Bell Pepper)",
+    "description": "Small water-soaked spots on leaves that turn brown.",
+    "treatment": "Remove infected plants immediately. Spray with copper-based fungicides.",
+    "prevention": "Use disease-free seeds and practice crop rotation."
+  },
+  "Pepper__bell___healthy": {
+    "name": "Healthy Bell Pepper",
+    "description": "The plant looks vigorous and free of disease.",
+    "treatment": "No treatment needed. Keep up the good work!",
+    "prevention": "Continue regular watering and monitoring."
+  },
+  "Potato___Early_blight": {
+    "name": "Early Blight (Potato)",
+    "description": "Dark brown spots with concentric rings on older leaves.",
+    "treatment": "Apply fungicides containing chlorothalonil or mancozeb.",
+    "prevention": "Mulch soil to prevent spores from splashing onto leaves."
+  },
+  "Potato___Late_blight": {
+    "name": "Late Blight (Potato)",
+    "description": "Large, dark brown blotches with a green-gray edge.",
+    "treatment": "This is serious. Apply specialized fungicides immediately. Remove infected foliage.",
+    "prevention": "Plant resistant varieties and avoid overhead watering."
+  },
+  "Potato___healthy": {
+    "name": "Healthy Potato Plant",
+    "description": "Foliage is green and free of spots.",
+    "treatment": "None required.",
+    "prevention": "Ensure proper hilling and consistent moisture."
+  },
+  "Tomato_Bacterial_spot": {
+    "name": "Bacterial Spot (Tomato)",
+    "description": "Small, dark, greasy spots on leaves.",
+    "treatment": "Apply copper bactericides early. Remove infected parts.",
+    "prevention": "Avoid working with wet plants; sanitize tools."
+  },
+  "Tomato_Early_blight": {
+    "name": "Early Blight (Tomato)",
+    "description": "Bullseye-patterned brown spots on lower leaves.",
+    "treatment": "Prune lower leaves to improve airflow. Apply fungicide.",
+    "prevention": "Stake plants to keep them off the ground."
+  },
+  "Tomato_Late_blight": {
+    "name": "Late Blight (Tomato)",
+    "description": "Greasy, gray spots on leaves that spread rapidly in cool, wet weather.",
+    "treatment": "Remove plant immediately to save neighbors. Fungicides may help if caught very early.",
+    "prevention": "Keep foliage dry and water the base of the plant."
+  },
+  "Tomato_Leaf_Mold": {
+    "name": "Leaf Mold",
+    "description": "Yellow spots on upper leaf surface, olive-green fuzz underneath.",
+    "treatment": "Improve air circulation. Apply fungicide if severe.",
+    "prevention": "Space plants properly and avoid wetting leaves."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "name": "Septoria Leaf Spot",
+    "description": "Circular spots with dark borders and gray centers.",
+    "treatment": "Remove infected leaves. Apply organic fungicides.",
+    "prevention": "Remove crop debris at the end of the season."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "name": "Two-spotted Spider Mite",
+    "description": "Tiny yellow speckles on leaves; fine webbing visible.",
+    "treatment": "Spray with insecticidal soap or neem oil.",
+    "prevention": "Keep plants well-watered; mites love dust and drought."
+  },
+  "Tomato__Target_Spot": {
+    "name": "Target Spot",
+    "description": "Brown lesions with faint concentric rings.",
+    "treatment": "Apply appropriate fungicides.",
+    "prevention": "Maintain good airflow and reduce humidity."
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "description": "Leaves curl upward and turn yellow; plant is stunted.",
+    "treatment": "No cure. Remove and destroy infected plants.",
+    "prevention": "Control whiteflies (the vector) using sticky traps or screens."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "name": "Tomato Mosaic Virus",
+    "description": "Mottled light and dark green pattern on leaves.",
+    "treatment": "No cure. Remove infected plants to prevent spread.",
+    "prevention": "Wash hands often; smokers should not touch plants (tobacco carries it)."
+  },
+  "Tomato_healthy": {
+    "name": "Healthy Tomato Plant",
+    "description": "Leaves are vibrant green and spotless.",
+    "treatment": "Keep doing what you are doing!",
+    "prevention": "Regular watering and fertilizing."
+  }
+}
